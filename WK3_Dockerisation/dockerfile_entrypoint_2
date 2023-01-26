@@ -1,3 +1,0 @@
-FROM ubuntu
-ENTRYPOINT exec top -b
-CMD -c
